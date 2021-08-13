@@ -1,6 +1,2 @@
 do laundry
-<<<<<<< HEAD
 do laundry 4
-=======
-do laundry 3
->>>>>>> 7de9d4e096efc7c5c04cc3c048de85b699f97464
