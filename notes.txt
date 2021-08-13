@@ -1,2 +1,2 @@
 do laundry
-do laundry 4 today
+do laundry 4 tomorrow
